@@ -1,0 +1,112 @@
+[
+    {
+      "image": "bread_italian", 
+      "name": "Pane Italiano",
+      "age": "Aged like fine wine",
+      "about": "I'm a slice with a heart, even when I'm feeling a bit crumby. I wear my emotions on my crust and I'm not afraid to show it. I'm looking for someone who appreciates the depth of flavor and isn't just about the toppings.",
+      "lookingFor": "A companion who can handle a little extra dough and isn't afraid of a few tears. Someone who understands that even the best breads can feel a little stale sometimes.",
+      "funFact": "I come with a hint of Italian heritage, hence the flag. I'm all about authenticity and tradition.",
+      "hobbies": "Listening to opera, perfecting my sourdough technique, and being the shoulder to cry on for all my crouton friends.",
+      "bestFeature": "My emotional depth. I'm not just another slice in the loaf."
+    },
+    {
+      "image": "bread_drunk",
+      "name": "Bready to Mingle", 
+      "age": "Fresh out of the oven",
+      "about": "I'm a slice of life, bringing warmth and comfort wherever I go. I'm well-rounded, a bit crusty on the edges but soft on the inside. I believe in loaf at first sight and always rise to the occasion.",
+      "lookingFor": "Someone who's bready for a crumb-believable adventure and doesn't mind a bit of a toast-up every now and then. If you're into buttering up and jamming out, we might just be the perfect batch.",
+      "funFact": "I'm a bit of a knead-y character, but I promise I won't go against the grain.",
+      "hobbies": "Crust crafting, dough yoga, and spreading cheer.",
+      "bestFeature": "My irresistible crust. It's not just good, it's upper crust."
+    },
+    {
+        "image": "bread_bday",
+        "name": "Breadley", 
+        "age": "Just a crumb younger than a day old",
+        "about": "I'm a slice of the party, always ready to celebrate and bring joy to the table. I'm soft, fluffy, and full of life, topped with a dollop of sweetness and a spark of fun.",
+        "lookingFor": "Someone who's the icing on my cake, ready to make every day a celebration. If you love to party and savor the sweet moments, let's rise together.",
+        "funFact": "I can light up a room just like my birthday candle, and I'm known for my infectious laughter (or should I say yeast-erful chuckles).",
+        "hobbies": "Hosting dough-lightful parties, spreading happiness like frosting, and making every moment count.",
+        "bestFeature": "My sprinkle of charm and my candle-lit smile that can make anyone's day brighter."
+      },
+      {
+        "image": "bread_cursing",
+        "name": "Crusty", 
+        "age": "Freshly baked",
+        "about": "I'm a slice with sass and a crust that can't be tamed. I've got a bold flavor and I'm not afraid to express myself, even if it means getting a little toasted.",
+        "lookingFor": "Someone who can handle the heat and isn't afraid of a little crusty attitude. If you're ready for a slice of life that's anything but bland, let's get toasty.",
+        "funFact": "I've got a spicy personality and my jokes are always on a roll.",
+        "hobbies": "Kneading out stress, toasting to the good life, and buttering up my friends.",
+        "bestFeature": "My fiery spirit and my perfectly baked edges that are never burnt."
+      },
+      {
+        "image": "bread_fingerguns",
+        "name": "Rye-an Reynolds", 
+        "age": "Fresh out of the oven",
+        "about": "I'm the kind of slice that's all about good vibes and finger guns. I'm easy-going, a bit crusty around the edges but always ready to rise to the occasion.",
+        "lookingFor": "Looking for someone who appreciates a good loaf and doesn't mind going against the grain. If you're into spontaneous flour fights and yeast jokes, we'll get along just fine.",
+        "funFact": "I can make any sandwich instantly cooler with my presence.",
+        "hobbies": "Jamming out to bread beats, spreading positivity, and loafing around in style.",
+        "bestFeature": "My dough-lightful personality and my ability to make anyone smile with my finger guns."
+      },
+      {
+        "image": "bread_crazy",
+        "name": "Wheatley Wild", 
+        "age": "Baked to perfection",
+        "about": "I'm the slice that brings the party to the bread basket. With a zany zest and a crumbly charisma, I'm all about living life on the wild yeast side.",
+        "lookingFor": "Seeking an adventurous spirit who's ready to embark on a flavor-filled journey. If you're up for a crumb of fun and a dash of daring, let's rise together.",
+        "funFact": "I once entered a sandwich and came out as a crouton!",
+        "hobbies": "Crust crafting, dough disco, and unleashing my inner grainiac.",
+        "bestFeature": "My unpredictable nature and my ability to turn any frown upside-down with my wacky ways."
+      },
+      {
+        "image": "bread_flex",
+        "name": "Bread Pitt", 
+        "age": "Baked to impress",
+        "about": "I'm not your average slice; I'm all about that whole grain gain. I've been kneading my way to the top, and now I'm ready to flex my gluten muscles.",
+        "lookingFor": "Seeking a partner who's not afraid to go against the grain and can appreciate a well-rounded loaf with a strong crust. If you're looking for a slice of the good life, let's get this bread.",
+        "funFact": "I can bench press a baguette with my doughy biceps.",
+        "hobbies": "Pumping iron at the gym, carb-loading for strength, and spreading cheer with my hearty laugh.",
+        "bestFeature": "My chiseled crust and my ability to rise above any challenge."
+      },
+      {
+        "image": "bread_lipbite",
+        "name": "Ciabatta Chomp", 
+        "age": "Golden brown",
+        "about": "I'm the slice that's all about that bite. With a crust that's just right and a soft, warm center, I'm the perfect mix of tough and tender.",
+        "lookingFor": "Seeking someone who's not afraid to take a big bite out of life. If you're ready to savor every moment and indulge in some flirty fun, let's make a toast to us.",
+        "funFact": "I've got a reputation for being the best thing since sliced bread—because I am!",
+        "hobbies": "Baking up romance, practicing my smoldering gaze, and leaving a trail of crumbs to your heart.",
+        "bestFeature": "My irresistible chew and that lip-biting look that says, 'I'm ready for a taste adventure.'"
+      },
+      {
+        "image": "bread_ragingbread",
+        "name": "Breadzilla", 
+        "age": "Hotter than a toaster",
+        "about": "I'm the slice that brings the heat, literally. With a temper as hot as my oven, I'm all about that intense flavor and fiery passion.",
+        "lookingFor": "Seeking someone who can handle the burn and isn't afraid to get a little toasty. If you're looking for a slice of excitement and a dash of danger, let's turn up the heat.",
+        "funFact": "I once caused a smoke alarm to go off just by entering the room!",
+        "hobbies": "Igniting taste buds, flambéing the competition, and always staying lit.",
+        "bestFeature": "My scorching personality and my ability to make any meal sizzle."
+      },
+      {
+        "image": "bread_sunglassesbread",
+        "name": "Ryeder Cool", 
+        "age": "Toasted to perfection",
+        "about": "I'm the slice that's too cool for the bread box. With my shades on and a crust that's crisp, I'm all about soaking up the sun and spreading good vibes.",
+        "lookingFor": "Seeking someone who's ready to roll with the butter and jam out to life's sweetest tunes. If you're into picnics in the park and crumb-free cuddles, let's catch some rays together.",
+        "funFact": "I never get soggy, even when I'm the life of the pool party.",
+        "hobbies": "Sunning on the windowsill, cruising the countertop, and always staying fresh.",
+        "bestFeature": "My sun-kissed crust and my ability to keep it cool under pressure."
+      },
+      {
+        "image": "bread_supermanbread",
+        "name": "Clark Kentasty", 
+        "age": "Fresh from the Fortress of Solitude",
+        "about": "I'm the slice that's faster than a speeding bullet and more powerful than a locomotive. With a cape of crust and a heart of gold, I'm all about saving the day, one sandwich at a time.",
+        "lookingFor": "Seeking a Lois Lane who's not afraid to fly high and dive into a world of adventure. If you're looking for a super slice with a heroic appetite, let's soar to new heights.",
+        "funFact": "I once lifted a whole wheat truck with just one crust!",
+        "hobbies": "Flying around the kitchen, lifting heavy dough, and keeping the bread box safe from villains.",
+        "bestFeature": "My super strength and my ability to always rise in the face of adversity."
+      }
+  ]
